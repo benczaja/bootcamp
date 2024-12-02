@@ -1,7 +1,7 @@
 #!/bin/bash
 
-#source /cvmfs/software.eessi.io/versions/2023.06/init/bash 
-#module load foss/2023b
+source /cvmfs/software.eessi.io/versions/2023.06/init/bash 
+module load foss/2023b
 
 unset LIBRARY_PATH
 unset LD_LIBRARY_PATH
